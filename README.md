@@ -36,7 +36,7 @@ Go to your browser and navigate to ```localhost:8088```, then open the webapp, b
 <br/>
 In another terminal instance, enter these commands:
 ```
-cd Keep-it-cool/webanalysis
+cd Keep-it-cool/webanalysius
 python appy.py
 ```
 ### Dependencies (appy.py)
