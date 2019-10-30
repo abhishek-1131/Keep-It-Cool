@@ -26,7 +26,7 @@ Second field: CO2 levels in ppm <br/>
 <img src='images/456.PNG' width=100% height=50%/> <br/>
 <img src='images/700.PNG' width=100% height=50%/> <br/>
 
-## Instructions
+## Instructions to run
 ```
 git clone https://github.com/srivastava41099/Keep-it-cool.git
 cd Keep-it-cool
