@@ -8,7 +8,7 @@ Refer 'Team Kugelblitz.pptx' for our full work and roadmap.
 <img src='images/homepage.PNG' width=100% height=50%/>
 
 ## Climate change impact visualizer
-Keep it cool is visualization tool that maps NASA's GISTEMP data on a WebGL based globe, and displays the impact of climate change on global mean temperature over the past century.<br/>
+Keep it cool is visualization tool that maps NASA's GISTEMP data on a WebGL based globe, and displays the impact of climate change on global mean temperature over the past century. This visualization work was inspired by the work done by Chrome Experiments (WebGL) and people like Aodhan Sweeney, Yoshua Bengio and many others' work in visualizing climate change.<br/>
 Red/orange spikes = higher global temperatures than average (anomalies)<br/>
 Blue/purple spikes = lower global temperatures than average <br/>
 ### 1910s
