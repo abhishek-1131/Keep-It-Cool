@@ -20,6 +20,8 @@ Blue/purple spikes = lower global temperatures than average <br/>
 We implemented a regression model that can tell the global temperature at any time in the future, given the CO2 emissions. It provides an interactive feedback for the user to play around with and see what the effects of CO2 emissions in the future years, could mean for the global mean temperatures.
 
 ### Example
+First field: Year <br/>
+Second field: CO2 levels in ppm <br/>
 <img src='images/350.PNG' width=100% height=50%/> <br/>
 <img src='images/456.PNG' width=100% height=50%/> <br/>
 <img src='images/700.PNG' width=100% height=50%/> <br/>
