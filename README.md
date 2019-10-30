@@ -2,7 +2,8 @@
 
 # Keep-it-cool
 Presented at NASA International Spaceapps 2019 <br/>
-Refer 'Team Kugelblitz.pptx' for our full work and roadmap
+<br/>
+Refer 'Team Kugelblitz.pptx' for our full work and roadmap.
 
 <img src='images/homepage.PNG' width=100% height=50%/>
 
