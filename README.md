@@ -28,7 +28,7 @@ Second field: CO2 levels in ppm <br/>
 
 ## Instructions to run
 ```
-git clone https://github.com/srivastava41099/Keep-it-cool.git
+git clone https://github.com/abhishek-1131/Keep-it-cool.git
 cd Keep-it-cool
 python -m http.server 8088
 ```
